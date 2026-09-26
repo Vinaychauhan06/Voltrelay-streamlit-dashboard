@@ -1,0 +1,30 @@
+{
+  "attempts": 3814981,
+  "completed": 3586674,
+  "failure_pct": 5.984485899143404,
+  "revenue_inr": 229195242.70000014,
+  "revenue_per_swap": 63.90188868572949,
+  "riders": 19941,
+  "stations": 150,
+  "avg_wait_min": 4.061967429062878,
+  "abandon_wait_min": 11.71315268315032,
+  "top10pct_station_fail_share": 24.14293035255161,
+  "heat_multiplier": 2.350637137493734,
+  "bad_packs": 1461,
+  "bad_marked_retired": 1438,
+  "bad_still_used_after": 1461,
+  "bad_share_after": 22.49161404893449,
+  "ticket_battery_match_pct": 0.033681374200067365,
+  "peak_hours": [
+    12,
+    13,
+    19,
+    20,
+    21,
+    22
+  ],
+  "new_riders": 12689,
+  "churn_pct": 12.16013870281346,
+  "stop_after_unresolved": 6.622114216281895,
+  "stop_after_resolved": 6.647924590706135
+}

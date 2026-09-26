@@ -1,0 +1,9 @@
+table,step,rows
+swap_events,Removed test stations (STN-TST),62031
+swap_events,Firmware v3.2.0 time bug fixed (+5h30m),139490
+swap_events,Near-duplicate removed,1
+swap_events,SoC / SoH above 100% capped,9684
+swap_events,Impossible km set to blank,15287
+station_hourly,Removed test stations,26256
+station_hourly,Missing / partial telemetry kept blank (not 0),46131
+station_hourly,Rows after station closed removed,24
